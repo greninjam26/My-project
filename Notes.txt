@@ -1,0 +1,8 @@
+Show all the commits:
+git log --all --decorate --oneline --graph
+Show status: 
+Git status
+Add another file to track: 
+git add filename
+Make a commit: 
+git commit -m "a massage"
