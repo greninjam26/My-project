@@ -3,6 +3,12 @@ git log --all --decorate --oneline --graph
 Show status: 
 Git status
 Add another file to track: 
-git add filename
+git add filename(. To add all changes)
 Make a commit: 
 git commit -m "a massage"
+Push the commit to GitHub:(need a token instead of password)
+Git push
+Get new changes from GitHub: 
+git pull
+Create new file:
+touch filename
