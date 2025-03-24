@@ -12,3 +12,7 @@ Get new changes from GitHub:
 git pull
 Create new file:
 touch filename
+Get the information but not update it to the location repository:
+git fetch
+Add the information from git fetch to local:
+git merge
