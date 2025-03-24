@@ -6,6 +6,8 @@ Add another file to track:
 git add filename(. To add all changes)
 Make a commit: 
 git commit -m "a massage"
+Add all changes and make a commit:
+git commit -a -m "a message"
 Push the commit to GitHub:(need a token instead of password)
 Git push
 Get new changes from GitHub: 
