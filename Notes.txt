@@ -1,4 +1,4 @@
-Show all the commits:
+ Show all the commits:
 git log --all --decorate --oneline --graph
 Show status: 
 Git status
@@ -18,3 +18,5 @@ Get the information but not update it to the location repository:
 git fetch
 Add the information from git fetch to local:
 git merge
+Reset changes:
+Git reset --hard id
