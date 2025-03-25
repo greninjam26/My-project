@@ -1,4 +1,4 @@
- Show all the commits:
+Show all the commits:
 git log --all --decorate --oneline --graph
 Show status: 
 Git status
