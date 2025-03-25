@@ -20,3 +20,5 @@ Add the information from git fetch to local:
 git merge
 Reset changes:
 Git reset --hard id
+Make this folder a local repository:
+Git init
