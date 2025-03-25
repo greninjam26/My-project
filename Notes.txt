@@ -10,6 +10,8 @@ Add all changes and make a commit:
 git commit -a -m "a message"
 Push the commit to GitHub:(need a token instead of password)
 Git push
+Push a branch to GitHub:
+Git push -u remote-branch-name branch-name
 Get new changes from GitHub: 
 git pull
 Create new file:
@@ -22,3 +24,13 @@ Reset changes:
 Git reset --hard id
 Make this folder a local repository:
 Git init
+Show all commits:
+Git reflog
+Remove everything happened in a certain commit(:q to exit the new window):
+Git revert id
+Make a certain commit and add it back into the repository(usually used across branches):
+Git cherry-pick id
+Rename a branch:
+git branch -M name
+Connect a local repository to a remote on in GitHub:
+Git remove add name link
