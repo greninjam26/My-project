@@ -34,3 +34,7 @@ Rename a branch:
 git branch -M name
 Connect a local repository to a remote on in GitHub:
 Git remove add name link
+Switch to another branch: 
+Git switch branch-name/-c branch-name (to create a new branch)
+Add in everything from dev to master(current in master branch): 
+Git merge dev
