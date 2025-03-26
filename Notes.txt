@@ -46,3 +46,9 @@ To merge dev to master without the branch history and the extra merge commit:
 Git rebase dev
 Push a branch from local repository to GitHub:
 Git push name HEAD:branch-name
+Combine commits together:
+Git rebase -i id
+Put the changes into the stash and save it for later:
+Git stash
+Get the changes from the stash:
+Git stash pop
