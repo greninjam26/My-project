@@ -38,3 +38,5 @@ Switch to another branch:
 Git switch branch-name/-c branch-name (to create a new branch)
 Add in everything from dev to master(current in master branch): 
 Git merge dev
+To merge dev to master without the branch history and the extra merge commit:
+Git rebase dev
