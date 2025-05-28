@@ -1,3 +1,5 @@
+Bring a github repository to local: 
+git clone [link]
 Show all the commits:
 git log --all --decorate --oneline --graph
 Show status: 
