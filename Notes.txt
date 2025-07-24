@@ -24,6 +24,8 @@ Add the information from git fetch to local:
 git merge
 Reset changes:
 Git reset --hard id
+reset all current changes: 
+git reset --hard HEAD
 Make this folder a local repository:
 Git init
 Show all commits:
